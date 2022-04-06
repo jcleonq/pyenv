@@ -1,0 +1,40 @@
+LINKS:
+
+Tools: 
+----- 
+https://code.visualstudio.com/docs/?dv=osx 
+https://fullstackpython.com
+
+Source Control: 
+-------------- 
+https://github.com/jankarloz
+
+Web Servers: 
+----------- 
+https://httpd.apache.org 
+https://nginx.org/en/   
+
+Frameworks: 
+---------- 
+https://www.djangoproject.com 
+https://flask.palletsprojects.com/en/2.0.x/ 
+
+Databases: 
+--------- 
+https://realpython.com/python-sql-libraries/
+https://docs.python-guide.org/scenarios/db/
+https://www.sqlalchemy.org
+
+Modules: : 
+--------------------- 
+Python3 Module of the Week: https://pymotw.com/3/index.html
+
+Deployment: 
+---------- 
+https://vsupalov.com/11-django-real-world-challenges/ 
+
+Must read:
+--------- 
+https://12factor.net/  
+https://docs.python.org/3/tutorial/ 
+ 

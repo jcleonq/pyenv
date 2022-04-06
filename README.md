@@ -1,2 +1,4 @@
-# pyenv
-Python Virtual Environment Libraries
+# venv
+python virtual environment modules 
+
+# pip install -r requirements.txt 
